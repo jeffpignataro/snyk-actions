@@ -1,5 +1,6 @@
 # Snyk GitHub Actions
 
+
 ![](https://github.com/snyk/actions/workflows/Generate%20Snyk%20GitHub%20Actions/badge.svg)
 
 A set of [GitHub Action](https://github.com/features/actions) for using [Snyk](https://snyk.co/SnykGH) to check for
